@@ -1,0 +1,16 @@
+[
+	{
+		"messageid":"1",
+		"userid":"222",
+		"time":"2015-5-3",
+		"username":"张三",
+		"message":"欢迎葫芦娃加入"
+	},
+	{
+		"messageid":"2",
+		"userid":"222",
+		"time":"2015-5-3",
+		"username":"张三",
+		"message":"哦呵呵哈哈哈"
+	}
+]

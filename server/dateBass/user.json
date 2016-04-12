@@ -1,0 +1,24 @@
+[
+	{
+		"userID":"0001",
+		"userName":"大娃",
+		"password":"001",
+		"partnent":"树莓",
+		"tel":"18603352015",
+		"email":"test@qq.com",
+		"tag":"研究",
+		"creater":"wlh",
+		"tolen":"didi"
+	},
+	{
+		"userID":"0002",
+		"userName":"六娃",
+		"password":"001",
+		"partnent":"树莓",
+		"tel":"18603352015",
+		"email":"test@qq.com",
+		"tag":"研究",
+		"creater":"wlh",
+		"tolen":"didi"
+	}
+]
